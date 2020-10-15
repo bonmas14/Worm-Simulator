@@ -1,7 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-
+//Copyright (c) 2020 BonMAS14
 public class Menu : MonoBehaviour
 {
     public Camera cam;
